@@ -23,3 +23,20 @@ Backend: NodeJS + ExpressJS for handling API requests and processing weather dat
 Database: MySQL to store and aggregate weather data.
 
 API: OpenWeatherMap API to fetch real-time weather data.
+
+
+**Install dependencies**
+
+npm install
+
+**Start the frontend:**
+
+cd client
+
+npm start
+
+**Start the Backend:****
+
+cd server
+
+node server.js
